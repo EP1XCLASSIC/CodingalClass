@@ -17,3 +17,4 @@ else: # electricityusage >= 400
 
 print("The water bill is:", water_bill)
 print("The electricity bill is:", electricity_bill)
+print("The total expense is:", water_bill+electricity_bill)
